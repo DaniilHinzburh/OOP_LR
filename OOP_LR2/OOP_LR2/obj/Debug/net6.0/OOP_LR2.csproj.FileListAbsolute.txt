@@ -1,0 +1,15 @@
+C:\Все кроме винды\C#\OOP_LR2\OOP_LR2\bin\Debug\net6.0\OOP_LR2.exe
+C:\Все кроме винды\C#\OOP_LR2\OOP_LR2\bin\Debug\net6.0\OOP_LR2.deps.json
+C:\Все кроме винды\C#\OOP_LR2\OOP_LR2\bin\Debug\net6.0\OOP_LR2.runtimeconfig.json
+C:\Все кроме винды\C#\OOP_LR2\OOP_LR2\bin\Debug\net6.0\OOP_LR2.dll
+C:\Все кроме винды\C#\OOP_LR2\OOP_LR2\bin\Debug\net6.0\OOP_LR2.pdb
+C:\Все кроме винды\C#\OOP_LR2\OOP_LR2\obj\Debug\net6.0\OOP_LR2.csproj.AssemblyReference.cache
+C:\Все кроме винды\C#\OOP_LR2\OOP_LR2\obj\Debug\net6.0\OOP_LR2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Все кроме винды\C#\OOP_LR2\OOP_LR2\obj\Debug\net6.0\OOP_LR2.AssemblyInfoInputs.cache
+C:\Все кроме винды\C#\OOP_LR2\OOP_LR2\obj\Debug\net6.0\OOP_LR2.AssemblyInfo.cs
+C:\Все кроме винды\C#\OOP_LR2\OOP_LR2\obj\Debug\net6.0\OOP_LR2.csproj.CoreCompileInputs.cache
+C:\Все кроме винды\C#\OOP_LR2\OOP_LR2\obj\Debug\net6.0\OOP_LR2.dll
+C:\Все кроме винды\C#\OOP_LR2\OOP_LR2\obj\Debug\net6.0\refint\OOP_LR2.dll
+C:\Все кроме винды\C#\OOP_LR2\OOP_LR2\obj\Debug\net6.0\OOP_LR2.pdb
+C:\Все кроме винды\C#\OOP_LR2\OOP_LR2\obj\Debug\net6.0\OOP_LR2.genruntimeconfig.cache
+C:\Все кроме винды\C#\OOP_LR2\OOP_LR2\obj\Debug\net6.0\ref\OOP_LR2.dll
